@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 outs:
 - md5: 5a86d722ebb0564e08914a9f5c15bf8c.dir
   size: 134741
   nfiles: 5
   path: cat
-=======
-outs:
-- md5: 5bf56891359b7b8e04de8067a7f3b7cd.dir
-  size: 156975
-  nfiles: 6
-  path: cat
->>>>>>> d1250e0adcbfabf0ce18f3289925463b43b6cc2d
