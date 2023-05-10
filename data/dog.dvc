@@ -1,0 +1,5 @@
+outs:
+- md5: b2a8e3519b99def0e19f27cc2996669e.dir
+  size: 123553
+  nfiles: 5
+  path: dog
